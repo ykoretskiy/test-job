@@ -1,0 +1,4 @@
+bucket         = "test-job-terraform-states"
+dynamodb_table = "test-job-terraform-states"
+region         = "us-east-1"
+profile        = "test-job"
